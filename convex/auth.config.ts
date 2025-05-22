@@ -1,7 +1,7 @@
 export default {
     providers: [
         {
-            domain: "YOUR_CLERK_ISSUER_URL",
+            domain: "https://trusted-prawn-63.clerk.accounts.dev",
             applicationID: "convex",
         },
     ]
